@@ -22,7 +22,7 @@ Movie Rating With Content Project
 •	Created using visual studio code. <br>
 •	Excel was used to store the data. <br>
 •	The design editor of pyQt5 was used for the UI.<br>
-<h3> What to Add? </h3>
+<h3> What to Add </h3>
       When the algorithm of the next period project is completed, our application will calculate the approximate imdb score of the movie that will be released according to the selected parameter.<br>
 <h3> Developers </h3>
 191805026 - Doğa Aydın <br>
